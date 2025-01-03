@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Sweep",
+        "location": "Main Floor",
+        "description": "Sweep the floor throughout the main floor.",
+        "frequency": 3,
+        "delta": 1,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Sweep and Swiffer",
+        "location": "Main Floor",
+        "description": "Sweep, swiffer, and shake out main floor rugs.",
+        "frequency": 14,
+        "delta": 1,
+        "type": "weekend",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Otis' Window",
+        "location": "Living Room",
+        "description": "Clean the window on the far right (looking outside).",
+        "frequency": 14,
+        "delta": 7,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Dust",
+        "location": "Main Floor",
+        "description": "Dust all surfaces, window sills and remove all cobwebs.",
+        "frequency": 30,
+        "delta": 7,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Out Refrigerator",
+        "location": "Kitchen",
+        "description": "Throw out any expired goods and reorganize the fridge/freezer.",
+        "frequency": 30,
+        "delta": 7,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Refrigerator",
+        "location": "Kitchen",
+        "description": "Throw out any expired goods and reorganize the fridge/freezer. Wipe down all surfaces, empty and clean ice cube tray, and wipe down exterior",
+        "frequency": 180,
+        "delta": 30,
+        "type": "weekend",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Out Pantry",
+        "location": "Kitchen",
+        "description": "Throw out any expired goods and reorganize the pantry.",
+        "frequency": 30,
+        "delta": 7,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Pantry",
+        "location": "Kitchen",
+        "description": "Throw out any expired goods and reorganize the pantry. Wipe down all surfaces, sweep and swiffer, and wipe down exterior",
+        "frequency": 180,
+        "delta": 30,
+        "type": "weekend",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Small Appliances",
+        "location": "Kitchen",
+        "description": "Clean microwave/air fryer/toaster oven/kettle.",
+        "frequency": 60,
+        "delta": 7,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Oven",
+        "location": "Kitchen",
+        "description": "Pull out the oven, clean the oven hole, exterior, and interior of oven.",
+        "frequency": 365,
+        "delta": 30,
+        "type": "weekend",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Fume Hood",
+        "location": "Kitchen",
+        "description": "Clean the filter in the fume hood above the oven.",
+        "frequency": 180,
+        "delta": 30,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Kitchen Corner",
+        "location": "Kitchen",
+        "description": "De-clutter the window sills, clean behind sink, and clean garbage disposal.",
+        "frequency": 30,
+        "delta": 7,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Dishwasher",
+        "location": "Kitchen",
+        "description": "Clean interior of dishwasher and filter.",
+        "frequency": 180,
+        "delta": 14,
+        "type": "weekend",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Wash Futon Sheet",
+        "location": "Family Room",
+        "description": "Wash futon sheet with dog contaminated blankets and rotate futon mattress.",
+        "frequency": 14,
+        "delta": 7,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Vacuum Couch",
+        "location": "Family Room",
+        "description": "Vacuum cracks and top of couch cushions.",
+        "frequency": 60,
+        "delta": 14,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Wipe Down Slider",
+        "location": "Family Room",
+        "description": "Wipe down the sliding glass door and vacuum tracks.",
+        "frequency": 60,
+        "delta": 14,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Washing Machine",
+        "location": "Laundry Room",
+        "description": "Clean washing machine per manufacturers instructions.",
+        "frequency": 180,
+        "delta": 30,
+        "type": "weekend",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Clean Dryer",
+        "location": "Laundry Room",
+        "description": "Clean Dryer per manufacturers instructions.",
+        "frequency": 180,
+        "delta": 30,
+        "type": "weekend",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Check Fire Extinguisher",
+        "location": "Laundry Room",
+        "description": "Check that the fire extinguisher is within proper charge.",
+        "frequency": 30,
+        "delta": 1,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    }
+]

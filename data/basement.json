@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Vacuum Carpet",
+        "location": "Basement",
+        "description": "Vacuum the game-room, hallway, stairs, and Mitch's office.",
+        "frequency": 14,
+        "delta": 7,
+        "type": "weekend",
+        "last_completed": "04/30/2024"
+    },
+    {
+        "name": "Dust",
+        "location": "Basement",
+        "description": "Dust all surfaces, window sills and remove all cobwebs.",
+        "frequency": 30,
+        "delta": 7,
+        "type": "weekday",
+        "last_completed": "04/30/2024"
+    }
+]
